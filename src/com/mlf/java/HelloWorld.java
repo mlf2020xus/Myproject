@@ -18,7 +18,7 @@ public class HelloWorld {
         System.out.println("在slave上做的第一个修改");
         System.out.println("在slave上做的第二个修改");
         System.out.println("在slave上做的第san个修改");
-        System.out.println("在远程库进行pull的操作演示")
+        System.out.println("在远程库进行pull的操作演示");
     }
 
 
