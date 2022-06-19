@@ -15,6 +15,9 @@ public class HelloWorld {
         String s = new String("张三");
         int length = s.length();
         System.out.println(length);
+        System.out.println("在slave上做的第一个修改");
+        System.out.println("在slave上做的第二个修改");
+
     }
 
 
